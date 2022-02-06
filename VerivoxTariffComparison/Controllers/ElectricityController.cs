@@ -1,7 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Threading.Tasks;
-using System.Net.Http;
 using VerivoxTariffComparison.Services;
 
 namespace AdeccoAPI.Controllers {
