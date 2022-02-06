@@ -26,7 +26,7 @@ git clone https://github.com/malisasmaz/VerivoxTariffComparison.git
 
 # Decision-Making Process and TechStack
 
-1. ASP.NET Core Web Api template used for the project. I separated sub processes. Unit and Integration tests added.
+1. ASP.NET Core Web Api template used for the project. I separated sub processes using with Strategy Design Pattern. Unit and Integration tests added. Swagger UI integrated for API Documentation.
 2. Nuget packages and why I use them
    - Swashbuckle
      - For API Documentation with Swagger
