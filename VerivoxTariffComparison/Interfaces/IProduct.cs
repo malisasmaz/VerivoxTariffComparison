@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace VerivoxTariffComparison.Model {
+﻿
+namespace VerivoxTariffComparison.Interfaces {
+    /// <summary>
+    /// Electricity Product
+    /// </summary>
     public interface IProduct {
         /// <summary>
         /// Product Name

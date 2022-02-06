@@ -13,6 +13,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
+using VerivoxTariffComparison.Interfaces;
 using VerivoxTariffComparison.Services;
 
 namespace VerivoxTariffComparison {
